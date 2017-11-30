@@ -85,6 +85,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\FuegosArtificiales\LanzarCohete.cs" />
+    <Compile Include="Assets\Scripts\MiniPractica01\ColisionCabinaAscensor.cs" />
+    <Compile Include="Assets\Scripts\MiniPractica01\DeteccionColision.cs" />
+    <Compile Include="Assets\Scripts\MiniPractica01\MovimientoColumna.cs" />
+    <Compile Include="Assets\Scripts\MiniPractica01\sphereColliding.cs" />
+    <Compile Include="Assets\Scripts\MiniPractica01\triggerCollision.cs" />
     <Compile Include="Assets\Scripts\Spaceship\SpaceshipController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
