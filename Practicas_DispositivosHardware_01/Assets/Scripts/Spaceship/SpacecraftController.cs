@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SpaceshipController : MonoBehaviour {
+public class SpacecraftController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
