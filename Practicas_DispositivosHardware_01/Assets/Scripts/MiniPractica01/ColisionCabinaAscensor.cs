@@ -14,7 +14,7 @@ public class ColisionCabinaAscensor : MonoBehaviour {
 		
 	}
 
-    void OnCollisionEnter(Collider other)
+    void OnCollisionEnter(Collision other)
     {
         System.Console.WriteLine("Testeando");
     }

@@ -14,7 +14,7 @@ public class sphereColliding : MonoBehaviour {
 		
 	}
 
-    void OnCollisionEnter(Collider other)
+    void OnCollisionEnter(Collision other)
     {
         if(other.gameObject.name == "Esfera02")
         {
